@@ -1,9 +1,7 @@
 name = "auth-service"
-main = "src/index.ts"
 compatibility_date = "2024-12-23"
-
-main = "src/index.ts"
-minify = true
+main = "./src/index.ts"
+account_id = "8588e7122b474011c4db6490983aecd7"
 
 # compatibility_flags = [ "nodejs_compat" ]
 
